@@ -1,0 +1,9 @@
+# Python temp files.
+*.pyc
+__pycache__
+
+# Test database
+*.sqlite3
+
+# PyCharm
+.idea/
